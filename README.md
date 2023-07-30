@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParagShirsat
 - 👀 I’m interested in Web development and Java
-- 🌱 I’m Final Year Computer Engineering at Guru Gobind Singh College of Engineering and Research Center,Nashik.
+- 🌱 I’m Final Year Computer Engineering student at Guru Gobind Singh College of Engineering and Research Center,Nashik.
 - 📫 How to reach me ...
 
 <!---
